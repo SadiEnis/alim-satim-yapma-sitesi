@@ -1,0 +1,236 @@
+E:\ceng\C#\Bilgisayar Programlama 2\13.Hafta\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\FinalOdev3_SadiEnisGucluer.dll.config
+E:\ceng\C#\Bilgisayar Programlama 2\13.Hafta\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\FinalOdev3_SadiEnisGucluer.dll
+E:\ceng\C#\Bilgisayar Programlama 2\13.Hafta\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\FinalOdev3_SadiEnisGucluer.pdb
+E:\ceng\C#\Bilgisayar Programlama 2\13.Hafta\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\csc.exe
+E:\ceng\C#\Bilgisayar Programlama 2\13.Hafta\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\csc.exe.config
+E:\ceng\C#\Bilgisayar Programlama 2\13.Hafta\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\csc.rsp
+E:\ceng\C#\Bilgisayar Programlama 2\13.Hafta\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\csi.exe
+E:\ceng\C#\Bilgisayar Programlama 2\13.Hafta\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\csi.exe.config
+E:\ceng\C#\Bilgisayar Programlama 2\13.Hafta\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\csi.rsp
+E:\ceng\C#\Bilgisayar Programlama 2\13.Hafta\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ceng\C#\Bilgisayar Programlama 2\13.Hafta\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ceng\C#\Bilgisayar Programlama 2\13.Hafta\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ceng\C#\Bilgisayar Programlama 2\13.Hafta\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ceng\C#\Bilgisayar Programlama 2\13.Hafta\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ceng\C#\Bilgisayar Programlama 2\13.Hafta\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ceng\C#\Bilgisayar Programlama 2\13.Hafta\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ceng\C#\Bilgisayar Programlama 2\13.Hafta\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ceng\C#\Bilgisayar Programlama 2\13.Hafta\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ceng\C#\Bilgisayar Programlama 2\13.Hafta\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ceng\C#\Bilgisayar Programlama 2\13.Hafta\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ceng\C#\Bilgisayar Programlama 2\13.Hafta\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\ceng\C#\Bilgisayar Programlama 2\13.Hafta\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.AppContext.dll
+E:\ceng\C#\Bilgisayar Programlama 2\13.Hafta\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Collections.Immutable.dll
+E:\ceng\C#\Bilgisayar Programlama 2\13.Hafta\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Console.dll
+E:\ceng\C#\Bilgisayar Programlama 2\13.Hafta\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\ceng\C#\Bilgisayar Programlama 2\13.Hafta\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ceng\C#\Bilgisayar Programlama 2\13.Hafta\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ceng\C#\Bilgisayar Programlama 2\13.Hafta\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Globalization.Calendars.dll
+E:\ceng\C#\Bilgisayar Programlama 2\13.Hafta\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.IO.Compression.dll
+E:\ceng\C#\Bilgisayar Programlama 2\13.Hafta\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\ceng\C#\Bilgisayar Programlama 2\13.Hafta\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.IO.FileSystem.dll
+E:\ceng\C#\Bilgisayar Programlama 2\13.Hafta\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ceng\C#\Bilgisayar Programlama 2\13.Hafta\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Net.Http.dll
+E:\ceng\C#\Bilgisayar Programlama 2\13.Hafta\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Net.Sockets.dll
+E:\ceng\C#\Bilgisayar Programlama 2\13.Hafta\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Reflection.Metadata.dll
+E:\ceng\C#\Bilgisayar Programlama 2\13.Hafta\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\ceng\C#\Bilgisayar Programlama 2\13.Hafta\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ceng\C#\Bilgisayar Programlama 2\13.Hafta\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ceng\C#\Bilgisayar Programlama 2\13.Hafta\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ceng\C#\Bilgisayar Programlama 2\13.Hafta\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ceng\C#\Bilgisayar Programlama 2\13.Hafta\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ceng\C#\Bilgisayar Programlama 2\13.Hafta\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\ceng\C#\Bilgisayar Programlama 2\13.Hafta\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.ValueTuple.dll
+E:\ceng\C#\Bilgisayar Programlama 2\13.Hafta\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ceng\C#\Bilgisayar Programlama 2\13.Hafta\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ceng\C#\Bilgisayar Programlama 2\13.Hafta\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Xml.XPath.dll
+E:\ceng\C#\Bilgisayar Programlama 2\13.Hafta\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ceng\C#\Bilgisayar Programlama 2\13.Hafta\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\vbc.exe
+E:\ceng\C#\Bilgisayar Programlama 2\13.Hafta\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\vbc.exe.config
+E:\ceng\C#\Bilgisayar Programlama 2\13.Hafta\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\vbc.rsp
+E:\ceng\C#\Bilgisayar Programlama 2\13.Hafta\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\VBCSCompiler.exe
+E:\ceng\C#\Bilgisayar Programlama 2\13.Hafta\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\VBCSCompiler.exe.config
+E:\ceng\C#\Bilgisayar Programlama 2\13.Hafta\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ceng\C#\Bilgisayar Programlama 2\13.Hafta\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ceng\C#\Bilgisayar Programlama 2\13.Hafta\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\obj\Debug\FinalOdev3_SadiEnisGucluer.csproj.AssemblyReference.cache
+E:\ceng\C#\Bilgisayar Programlama 2\13.Hafta\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\obj\Debug\FinalOdev3_SadiEnisGucluer.csproj.CoreCompileInputs.cache
+E:\ceng\C#\Bilgisayar Programlama 2\13.Hafta\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\obj\Debug\FinalOdev3_SadiEnisGucluer.csproj.CopyComplete
+E:\ceng\C#\Bilgisayar Programlama 2\13.Hafta\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\obj\Debug\FinalOdev3_SadiEnisGucluer.dll
+E:\ceng\C#\Bilgisayar Programlama 2\13.Hafta\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\obj\Debug\FinalOdev3_SadiEnisGucluer.pdb
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\Çıktı\FinalOdev3\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\FinalOdev3_SadiEnisGucluer.dll.config
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\Çıktı\FinalOdev3\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\FinalOdev3_SadiEnisGucluer.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\Çıktı\FinalOdev3\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\FinalOdev3_SadiEnisGucluer.pdb
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\Çıktı\FinalOdev3\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\csc.exe
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\Çıktı\FinalOdev3\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\csc.exe.config
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\Çıktı\FinalOdev3\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\csc.rsp
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\Çıktı\FinalOdev3\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\csi.exe
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\Çıktı\FinalOdev3\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\csi.exe.config
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\Çıktı\FinalOdev3\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\csi.rsp
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\Çıktı\FinalOdev3\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\Çıktı\FinalOdev3\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\Çıktı\FinalOdev3\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\Çıktı\FinalOdev3\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\Çıktı\FinalOdev3\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\Çıktı\FinalOdev3\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\Çıktı\FinalOdev3\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\Çıktı\FinalOdev3\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\Çıktı\FinalOdev3\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\Çıktı\FinalOdev3\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\Çıktı\FinalOdev3\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\Çıktı\FinalOdev3\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\Çıktı\FinalOdev3\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.AppContext.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\Çıktı\FinalOdev3\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Collections.Immutable.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\Çıktı\FinalOdev3\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Console.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\Çıktı\FinalOdev3\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\Çıktı\FinalOdev3\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\Çıktı\FinalOdev3\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\Çıktı\FinalOdev3\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Globalization.Calendars.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\Çıktı\FinalOdev3\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.IO.Compression.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\Çıktı\FinalOdev3\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\Çıktı\FinalOdev3\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.IO.FileSystem.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\Çıktı\FinalOdev3\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\Çıktı\FinalOdev3\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Net.Http.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\Çıktı\FinalOdev3\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Net.Sockets.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\Çıktı\FinalOdev3\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Reflection.Metadata.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\Çıktı\FinalOdev3\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\Çıktı\FinalOdev3\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\Çıktı\FinalOdev3\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\Çıktı\FinalOdev3\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\Çıktı\FinalOdev3\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\Çıktı\FinalOdev3\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\Çıktı\FinalOdev3\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\Çıktı\FinalOdev3\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.ValueTuple.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\Çıktı\FinalOdev3\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\Çıktı\FinalOdev3\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\Çıktı\FinalOdev3\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Xml.XPath.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\Çıktı\FinalOdev3\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\Çıktı\FinalOdev3\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\vbc.exe
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\Çıktı\FinalOdev3\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\vbc.exe.config
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\Çıktı\FinalOdev3\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\vbc.rsp
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\Çıktı\FinalOdev3\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\VBCSCompiler.exe
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\Çıktı\FinalOdev3\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\VBCSCompiler.exe.config
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\Çıktı\FinalOdev3\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\Çıktı\FinalOdev3\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\Çıktı\FinalOdev3\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\obj\Debug\FinalOdev3_SadiEnisGucluer.csproj.AssemblyReference.cache
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\Çıktı\FinalOdev3\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\obj\Debug\FinalOdev3_SadiEnisGucluer.csproj.CoreCompileInputs.cache
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\Çıktı\FinalOdev3\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\obj\Debug\FinalOdev3_SadiEnisGucluer.csproj.CopyComplete
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\Çıktı\FinalOdev3\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\obj\Debug\FinalOdev3_SadiEnisGucluer.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\Çıktı\FinalOdev3\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\obj\Debug\FinalOdev3_SadiEnisGucluer.pdb
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\FinalOdev3_SadiEnisGucluer.dll.config
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\FinalOdev3_SadiEnisGucluer.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\FinalOdev3_SadiEnisGucluer.pdb
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\csc.exe
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\csc.exe.config
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\csc.rsp
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\csi.exe
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\csi.exe.config
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\csi.rsp
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.AppContext.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Collections.Immutable.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Console.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Globalization.Calendars.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.IO.Compression.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.IO.FileSystem.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Net.Http.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Net.Sockets.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Reflection.Metadata.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.ValueTuple.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Xml.XPath.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\vbc.exe
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\vbc.exe.config
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\vbc.rsp
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\VBCSCompiler.exe
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\VBCSCompiler.exe.config
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\obj\Debug\FinalOdev3_SadiEnisGucluer.csproj.AssemblyReference.cache
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\obj\Debug\FinalOdev3_SadiEnisGucluer.csproj.CoreCompileInputs.cache
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\obj\Debug\FinalOdev3_SadiEnisGucluer.csproj.CopyComplete
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\obj\Debug\FinalOdev3_SadiEnisGucluer.dll
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\obj\Debug\FinalOdev3_SadiEnisGucluer.pdb
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\FinalOdev3_SadiEnisGucluer.dll.config
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\FinalOdev3_SadiEnisGucluer.dll
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\FinalOdev3_SadiEnisGucluer.pdb
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\csc.exe
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\csc.exe.config
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\csc.rsp
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\csi.exe
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\csi.exe.config
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\csi.rsp
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.AppContext.dll
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Collections.Immutable.dll
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Console.dll
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Globalization.Calendars.dll
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.IO.Compression.dll
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.IO.FileSystem.dll
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Net.Http.dll
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Net.Sockets.dll
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Reflection.Metadata.dll
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.ValueTuple.dll
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Xml.XPath.dll
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\vbc.exe
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\vbc.exe.config
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\vbc.rsp
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\VBCSCompiler.exe
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\roslyn\VBCSCompiler.exe.config
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\obj\Debug\FinalOdev3_SadiEnisGucluer.csproj.AssemblyReference.cache
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\obj\Debug\FinalOdev3_SadiEnisGucluer.csproj.CoreCompileInputs.cache
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\obj\Debug\FinalOdev3_SadiEnisGucluer.csproj.CopyComplete
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\obj\Debug\FinalOdev3_SadiEnisGucluer.dll
+D:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\FinalOdev4_SadiEnisGucluer\FinalOdev4_SadiEnisGucluer\FinalOdev3_SadiEnisGucluer\obj\Debug\FinalOdev3_SadiEnisGucluer.pdb
